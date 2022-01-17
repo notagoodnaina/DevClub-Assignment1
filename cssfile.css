@@ -1,3 +1,34 @@
+a{position: absolute;
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+  line-height: 28px;
+color: #FFFFFF;}
+
+#HomeLink{width: 65px;
+height: 28px;
+left: 85px;
+top: 68px;
+}
+#TipsLink{width: 47px;
+height: 28px;
+left: 193px;
+top: 68px;}
+#SyptomsLink{width: 116px;
+height: 28px;
+left: 283px;
+top: 68px;}
+#FAQ'sLink{width: 56px;
+height: 28px;
+left: 442px;
+top: 68px;}
+#YoutubeLink{width: 95px;
+height: 28px;
+left: 541px;
+top: 68px;
+}
+
 .cap1{position: absolute;
 width: 1195px;
 height: 118px;
