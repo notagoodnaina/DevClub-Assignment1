@@ -1,3 +1,32 @@
+.cap1{position: absolute;
+width: 1195px;
+height: 118px;
+left: 85px;
+  top: 248px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+  line-height: 59px;}
+
+.cap2{position: absolute;
+width: 943px;
+height: 234px;
+left: 85px;
+top: 395px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 117px;
+
+color: #FFFFFF;
+}
+
+color: #E8AFCE;
+
 /* Rectangle 3 */
 
 position: absolute;
