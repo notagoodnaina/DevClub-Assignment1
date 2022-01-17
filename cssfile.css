@@ -1,3 +1,6 @@
+body{
+background: #4C0027;}
+
 a{position: absolute;
 font-family: Roboto;
 font-style: normal;
@@ -29,6 +32,23 @@ left: 541px;
 top: 68px;
 }
 
+#TipsHeading{position: absolute;
+width: 113px;
+height: 66px;
+left: 664px;
+top: 1053px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+text-align: center;
+
+color: #4C0027;
+}
+
 .cap1{position: absolute;
 width: 1195px;
 height: 118px;
@@ -53,20 +73,42 @@ font-weight: 800;
 font-size: 96px;
 line-height: 117px;
 
-color: #FFFFFF;
+color: #FFFFFF;}
+
+.Tips{background: #FFFFFF;}
+
+#WearMask{position: absolute;
+width: 317px;
+height: 66px;
+left: 873px;
+top: 1352px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+color: #000000;}
+
+#WashHands{position: absolute;
+width: 346px;
+height: 66px;
+left: 160px;
+top: 1785px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+color: #000000;
 }
-
-color: #E8AFCE;
-
-/* Rectangle 3 */
-
-position: absolute;
-width: 1293px;
-height: 369px;
-left: 74px;
-top: 1638px;
-
-background: #FFFFFF;
-border: 1px solid #E8AFCE;
-box-sizing: border-box;
-border-radius: 5px;
+#img1{position: absolute;
+left: 24.85%;
+right: 26.5%;
+top: 49.36%;
+bottom: 10.7%;}
