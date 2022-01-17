@@ -18,7 +18,7 @@ top: 68px;
 height: 28px;
 left: 193px;
 top: 68px;}
-#SyptomsLink{width: 116px;
+#SymptomsLink{width: 116px;
 height: 28px;
 left: 283px;
 top: 68px;}
@@ -113,3 +113,10 @@ left: 24.85%;
 right: 26.5%;
 top: 49.36%;
 bottom: 10.7%;}
+
+#img2{position: absolute;
+left: 94.26%;
+right: -80.55%;
+top: 46.87%;
+bottom: 3.47%;
+}
