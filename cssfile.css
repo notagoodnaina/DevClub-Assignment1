@@ -32,23 +32,6 @@ left: 541px;
 top: 68px;
 }
 
-#TipsHeading{position: absolute;
-width: 113px;
-height: 66px;
-left: 664px;
-top: 1053px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: 600;
-font-size: 54px;
-line-height: 66px;
-/* identical to box height */
-text-align: center;
-
-color: #4C0027;
-}
-
 .cap1{position: absolute;
 width: 1195px;
 height: 118px;
@@ -76,6 +59,24 @@ line-height: 117px;
 color: #FFFFFF;}
 
 .Tips{background: #FFFFFF;}
+
+
+#TipsHeading{position: absolute;
+width: 113px;
+height: 66px;
+left: 664px;
+top: 1053px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+text-align: center;
+
+color: #4C0027;
+}
 
 #WearMask{position: absolute;
 width: 317px;
