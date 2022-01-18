@@ -1,4 +1,4 @@
-.rec1{position: absolute;
+.rec1{position: fixed;
 width: 1440px;
 height: 1024px;
 left: 0px;
@@ -6,7 +6,7 @@ top: 0px;
 
 background: #4C0027;}
 
-a{position: absolute;
+a{position: fixed;
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -37,7 +37,7 @@ left: 541px;
 top: 68px;
 }
 
-.cap1{position: absolute;
+.cap1{position: fixed;
 width: 1195px;
 height: 118px;
 left: 85px;
@@ -49,7 +49,7 @@ font-weight: bold;
 font-size: 48px;
   line-height: 59px;}
 
-.cap2{position: absolute;
+.cap2{position: fixed;
 width: 943px;
 height: 234px;
 left: 85px;
@@ -66,7 +66,7 @@ color: #FFFFFF;}
 .Tips{background: #FFFFFF;}
 
 
-#TipsHeading{position: absolute;
+#TipsHeading{position: fixed;
 width: 113px;
 height: 66px;
 left: 664px;
@@ -83,7 +83,7 @@ text-align: center;
 color: #4C0027;
 }
 
-#WearMask{position: absolute;
+#WearMask{position: fixed;
 width: 317px;
 height: 66px;
 left: 873px;
@@ -98,7 +98,7 @@ line-height: 66px;
 
 color: #000000;}
 
-.rec2{position: absolute;
+.rec2{position: fixed;
 width: 1293px;
 height: 369px;
 left: 74px;
@@ -109,7 +109,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-.rec3{position: absolute;
+.rec3{position: fixed;
 width: 1293px;
 height: 369px;
 left: 74px;
@@ -120,7 +120,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#WashHands{position: absolute;
+#WashHands{position: fixed;
 width: 346px;
 height: 66px;
 left: 160px;
@@ -135,7 +135,7 @@ line-height: 66px;
 
 color: #000000;
 }
-#img1{position: absolute;
+#img1{position: fixed;
 left: 24.85%;
 right: 26.5%;
 top: 49.36%;
@@ -143,7 +143,7 @@ bottom: 10.7%;
 height: 139px;
 width: 169px;}
 
-#img2{position: absolute;
+#img2{position: fixed;
 left: 94.26%;
 right: -80.55%;
 top: 46.87%;
@@ -151,7 +151,7 @@ bottom: 3.47%;
 width: 295px;
 height: 200px}
 
-.rec4{position: absolute;
+.rec4{position: fixed;
 width: 1440px;
 height: 721px;
 left: 0px;
@@ -159,7 +159,7 @@ top: 2121px;
 
 background: #E8AFCE;}
 
-#Rec4Heading{position: absolute;
+#Rec4Heading{position: fixed;
 width: 300px;
 height: 66px;
 left: 570px;
