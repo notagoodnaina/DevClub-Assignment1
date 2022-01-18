@@ -192,9 +192,9 @@ font-weight: normal;
 font-size: 24px;
 padding:8px}
 
-tablecol1, tablecol2{width: 25%;}
+#tablecol1, #tablecol2{width: 25%;}
 
-tablecol3{width: 40%}
+#tablecol3{width: 40%}
 
 .rec6{position: absolute;
 width: 1293px;
