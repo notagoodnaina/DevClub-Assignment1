@@ -232,7 +232,7 @@ line-height: 28px;
 
 color: #000000;}
 
-.rec6.1body{position: absolute;
+#rec6.1body{position: absolute;
 width: 1129px;
 height: 105px;
 left: 162px;
@@ -271,7 +271,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-.rec6.2body{
+#rec6.2body{
 position: absolute;
 width: 1129px;
 height: 63px;
