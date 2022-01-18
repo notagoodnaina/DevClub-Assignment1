@@ -64,7 +64,7 @@ line-height: 117px;
 color: #FFFFFF;}
 
 .Tips{background: #FFFFFF;
-}
+top: 1024px;}
 
 
 #TipsHeading{position: absolute;
@@ -110,7 +110,7 @@ line-height: 66px;
 
 color: #000000;}
 
-.rec3{position: fixed;
+.rec3{position: absolute;
 width: 1293px;
 height: 369px;
 left: 74px;
