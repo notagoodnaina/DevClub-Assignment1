@@ -112,11 +112,14 @@ color: #000000;
 left: 24.85%;
 right: 26.5%;
 top: 49.36%;
-bottom: 10.7%;}
+bottom: 10.7%;
+height: 139px;
+width: 169px;}
 
 #img2{position: absolute;
 left: 94.26%;
 right: -80.55%;
 top: 46.87%;
 bottom: 3.47%;
-}
+width: 295px;
+height: 200px}
