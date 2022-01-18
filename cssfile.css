@@ -1,6 +1,3 @@
-body{
-background: #4C0027;}
-
 a{position: absolute;
 font-family: Roboto;
 font-style: normal;
@@ -8,6 +5,8 @@ font-weight: 500;
 font-size: 24px;
   line-height: 28px;
 color: #FFFFFF;}
+
+.Header{background: #4C0027;}
 
 #HomeLink{width: 65px;
 height: 28px;
@@ -92,6 +91,28 @@ line-height: 66px;
 /* identical to box height */
 
 color: #000000;}
+
+.rec2{position: absolute;
+width: 1293px;
+height: 369px;
+left: 74px;
+top: 1192px;
+
+background: #FFFFFF;
+border: 1px solid #E8AFCE;
+box-sizing: border-box;
+border-radius: 5px;}
+
+.rec3{position: absolute;
+width: 1293px;
+height: 369px;
+left: 74px;
+top: 1638px;
+
+background: #FFFFFF;
+border: 1px solid #E8AFCE;
+box-sizing: border-box;
+border-radius: 5px;}
 
 #WashHands{position: absolute;
 width: 346px;
