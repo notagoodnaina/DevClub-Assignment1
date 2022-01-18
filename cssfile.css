@@ -185,7 +185,7 @@ background: #FFFFFF;
 border: 8px solid #750550;
 box-sizing: border-box;}
 
-th,td{border: 1px;
+th,td{border: 8px solid #750550;
 font-family: Roboto;
 font-style: normal;
 font-weight: normal;
