@@ -141,15 +141,15 @@ left: 24.85%;
 right: 26.5%;
 top: 49.36%;
 bottom: 10.7%;
-height: 139px;
-width: 169px;}
+height: 278px;
+width: 338px;}
 
 #img2{position: absolute;
 left: 94.26%;
 top: 46.87%;
 bottom: 3.47%;
-width: 295px;
-height: 200px}
+width: 278px;
+height: 338px}
 
 .rec4{position: absolute;
 width: 1440px;
@@ -184,3 +184,6 @@ top: 2282px;
 background: #FFFFFF;
 border: 8px solid #750550;
 box-sizing: border-box;}
+
+th,td{border: 1px;
+}
