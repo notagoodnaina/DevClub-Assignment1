@@ -63,14 +63,15 @@ line-height: 117px;
 
 color: #FFFFFF;}
 
-.Tips{background: #FFFFFF;}
+.Tips{background: #FFFFFF;
+}
 
 
 #TipsHeading{position: absolute;
 width: 113px;
 height: 66px;
 left: 664px;
-top: 1053px;
+top: 19px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -83,21 +84,6 @@ text-align: center;
 color: #4C0027;
 }
 
-#WearMask{position: absolute;
-width: 317px;
-height: 66px;
-left: 873px;
-top: 1352px;
-
-font-family: Montserrat;
-font-style: normal;
-font-weight: normal;
-font-size: 54px;
-line-height: 66px;
-/* identical to box height */
-
-color: #000000;}
-
 .rec2{position: absolute;
 width: 1293px;
 height: 369px;
@@ -108,6 +94,21 @@ background: #FFFFFF;
 border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
+
+#WearMask{position: absolute;
+width: 317px;
+height: 66px;
+left: 873px;
+top: 160;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+color: #000000;}
 
 .rec3{position: fixed;
 width: 1293px;
@@ -124,7 +125,7 @@ border-radius: 5px;}
 width: 346px;
 height: 66px;
 left: 160px;
-top: 1785px;
+top: 147;
 
 font-family: Montserrat;
 font-style: normal;
@@ -163,7 +164,7 @@ background: #E8AFCE;}
 width: 300px;
 height: 66px;
 left: 570px;
-top: 2175px;
+top: 54px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -174,4 +175,3 @@ line-height: 66px;
 
 
 color: #4C0027;}
-
