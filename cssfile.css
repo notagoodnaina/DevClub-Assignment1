@@ -1,3 +1,11 @@
+.rec1{position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: #4C0027;}
+
 a{position: absolute;
 font-family: Roboto;
 font-style: normal;
@@ -5,8 +13,6 @@ font-weight: 500;
 font-size: 24px;
   line-height: 28px;
 color: #FFFFFF;}
-
-.Header{background: #4C0027;}
 
 #HomeLink{width: 65px;
 height: 28px;
@@ -144,3 +150,28 @@ top: 46.87%;
 bottom: 3.47%;
 width: 295px;
 height: 200px}
+
+.rec4{position: absolute;
+width: 1440px;
+height: 721px;
+left: 0px;
+top: 2121px;
+
+background: #E8AFCE;}
+
+#Rec4Heading{position: absolute;
+width: 300px;
+height: 66px;
+left: 570px;
+top: 2175px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+
+color: #4C0027;}
+
