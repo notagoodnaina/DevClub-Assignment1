@@ -323,3 +323,29 @@ line-height: 21px;
 
 color: #000000;
 }
+
+.Youtube{top:3849;
+height:1366.93}
+
+#Youtubehead{position: absolute;
+width: 240px;
+height: 66px;
+left: 616px;
+top: 45px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 66px;
+text-align: center;
+color: #4C0027;
+}
+
+#video{position: absolute;
+width: 240px;
+height: 66px;
+left: 616px;
+top:45px;
+  color: #4C0027;}
+top:168px}
