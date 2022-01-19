@@ -155,7 +155,7 @@ height: 338px}
 width: 1440px;
 height: 721px;
 left: 0px;
-top: 2121px;
+top: 114px;
 
 background: #E8AFCE;}
 
@@ -194,6 +194,24 @@ padding:8px}
 
 #tablecol3{width: 40%}
 
+#FAQ'shead{position: absolute;
+width: 146px;
+height: 66px;
+left: 647px;
+top: 2956px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 54px;
+line-height: 66px;
+/* identical to box height */
+
+text-align: center;
+
+color: #4C0027;
+}
+
 .rec6{position: absolute;
 width: 1293px;
 height: 754px;
@@ -208,8 +226,8 @@ border-radius: 5px;}
 .rec6_1{position: absolute;
 width: 1161px;
 height: 198px;
-left: 140px;
-top: 3135px;
+left: 66px;
+top: 40px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
@@ -219,8 +237,8 @@ border-radius: 5px;}
 #rec6_1head{position: absolute;
 width: 203px;
 height: 28px;
-left: 619px;
-top: 3161px;
+left: 479px;
+top: 26px;
 
 font-family: Roboto;
 font-style: normal;
@@ -233,8 +251,8 @@ color: #000000;}
 #rec6_1body{position: absolute;
 width: 1129px;
 height: 105px;
-left: 162px;
-top: 3202px;
+left: 22px;
+top: 67px;
 
 font-family: Roboto;
 font-style: normal;
@@ -247,14 +265,14 @@ color: #000000;}
 .rec6_2{position: absolute;
 width: 1161px;
 height: 198px;
-left: 140px;
-top: 3373px;
+left: 66px;
+top: 278px;
 
 #rec6_2head{position: absolute;
 width: 688px;
 height: 28px;
-left: 380px;
-top: 3399px;
+left: 240px;
+top: 26px;
 
 font-family: Roboto;
 font-style: normal;
@@ -273,8 +291,8 @@ border-radius: 5px;}
 position: absolute;
 width: 1129px;
 height: 63px;
-left: 162px;
-top: 3451px;
+left: 22px;
+top: 78px;
 
 font-family: Roboto;
 font-style: normal;
@@ -287,8 +305,8 @@ color: #000000;}
 .rec6_3{position: absolute;
 width: 1161px;
 height: 198px;
-left: 140px;
-top: 3611px;
+left: 66px;
+top: 516px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
@@ -298,8 +316,8 @@ border-radius: 5px;}
 #rec6_3head{position: absolute;
 width: 745px;
 height: 28px;
-left: 380px;
-top: 3637px;
+left: 240px;
+top: 26px;
 
 font-family: Roboto;
 font-style: normal;
@@ -312,8 +330,8 @@ color: #000000;}
 #rec6_3body{position: absolute;
 width: 1129px;
 height: 42px;
-left: 156px;
-top: 3698px;
+left: 16px;
+top: 87px;
 
 font-family: Roboto;
 font-style: normal;
