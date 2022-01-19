@@ -205,7 +205,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-.rec6.1{position: absolute;
+.rec6_1{position: absolute;
 width: 1161px;
 height: 198px;
 left: 140px;
@@ -216,7 +216,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#rec6.1head{position: absolute;
+#rec6_1head{position: absolute;
 width: 203px;
 height: 28px;
 left: 619px;
@@ -230,7 +230,7 @@ line-height: 28px;
 
 color: #000000;}
 
-#rec6.1body{position: absolute;
+#rec6_1body{position: absolute;
 width: 1129px;
 height: 105px;
 left: 162px;
@@ -244,13 +244,13 @@ line-height: 21px;
 
 color: #000000;}
 
-.rec6.2{position: absolute;
+.rec6_2{position: absolute;
 width: 1161px;
 height: 198px;
 left: 140px;
 top: 3373px;
 
-#rec6.2head{position: absolute;
+#rec6_2head{position: absolute;
 width: 688px;
 height: 28px;
 left: 380px;
@@ -269,7 +269,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#rec6.2body{
+#rec6_2body{
 position: absolute;
 width: 1129px;
 height: 63px;
@@ -284,7 +284,7 @@ line-height: 21px;
 
 color: #000000;}
 
-.rec6.3{position: absolute;
+.rec6_3{position: absolute;
 width: 1161px;
 height: 198px;
 left: 140px;
@@ -295,7 +295,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#rec6.3head{position: absolute;
+#rec6_3head{position: absolute;
 width: 745px;
 height: 28px;
 left: 380px;
@@ -309,7 +309,7 @@ line-height: 28px;
 
 color: #000000;}
 
-#rec6.3body{position: absolute;
+#rec6_3body{position: absolute;
 width: 1129px;
 height: 42px;
 left: 156px;
