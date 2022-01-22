@@ -23,15 +23,21 @@ height: 28px;}
 
 .cap1{width: 1195px;
 height: 118px;
-
 font-family: Montserrat;
 font-style: normal;
 font-weight: bold;
 font-size: 48px;
-  line-height: 59px;}
+line-height: 59px;
+
+position: absolute;
+top: 248px;
+left: 85px;}
 
 .cap2{width: 943px;
 height: 234px;
+position: absolute;
+top:395px;
+left:85px
 
 font-family: Montserrat;
 font-style: normal;
