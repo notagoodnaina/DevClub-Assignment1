@@ -1,12 +1,10 @@
-.rec1{position: absolute;
+.rec1{position: static;
 width: 1440px;
 height: 1024px;
-left: 0px;
-top: 0px;
 
 background: #4C0027;}
 
-a{position: absolute;
+a{position: static;
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -15,33 +13,19 @@ font-size: 24px;
 color: #FFFFFF;}
 
 #HomeLink{width: 65px;
-height: 28px;
-left: 85px;
-top: 68px;
-}
+height: 28px;}
 #TipsLink{width: 47px;
-height: 28px;
-left: 193px;
-top: 68px;}
+height: 28px;}
 #SymptomsLink{width: 116px;
-height: 28px;
-left: 283px;
-top: 68px;}
+height: 28px;}
 #FAQsLink{width: 56px;
-height: 28px;
-left: 442px;
-top: 68px;}
+height: 28px;}
 #YoutubeLink{width: 95px;
-height: 28px;
-left: 541px;
-top: 68px;
-}
+height: 28px;}
 
-.cap1{position: absolute;
+.cap1{position: static;
 width: 1195px;
 height: 118px;
-left: 85px;
-  top: 248px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -49,11 +33,9 @@ font-weight: bold;
 font-size: 48px;
   line-height: 59px;}
 
-.cap2{position: absolute;
+.cap2{position: static;
 width: 943px;
 height: 234px;
-left: 85px;
-top: 395px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -67,11 +49,9 @@ color: #FFFFFF;}
 top: 1024px;}
 
 
-#TipsHeading{position: absolute;
+#TipsHeading{position: static;
 width: 113px;
 height: 66px;
-left: 664px;
-top: 1053px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -84,11 +64,9 @@ text-align: center;
 color: #4C0027;
 }
 
-.rec2{position: absolute;
+.rec2{position: static;
 width: 1293px;
 height: 369px;
-left: 74px;
-top: 1192px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
@@ -98,8 +76,6 @@ border-radius: 5px;}
 #WearMask{position: absolute;
 width: 317px;
 height: 66px;
-left: 873px;
-top: 160;
 
 font-family: Montserrat;
 font-style: normal;
@@ -113,8 +89,6 @@ color: #000000;}
 .rec3{position: absolute;
 width: 1293px;
 height: 369px;
-left: 74px;
-top: 1638px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
@@ -124,8 +98,6 @@ border-radius: 5px;}
 #WashHands{position: absolute;
 width: 346px;
 height: 66px;
-left: 160px;
-top: 147;
 
 font-family: Montserrat;
 font-style: normal;
@@ -154,8 +126,6 @@ height: 338px}
 .rec4{position: absolute;
 width: 1440px;
 height: 721px;
-left: 0px;
-top: 2121px;
 
 background: #E8AFCE;}
 
@@ -163,7 +133,6 @@ background: #E8AFCE;}
 width: 300px;
 height: 66px;
 left: 570px;
-top: 54px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -175,11 +144,9 @@ line-height: 66px;
 
 color: #4C0027;}
 
-.rec5{position: absolute;
+.rec5{position: static;
 width: 951px;
 height: 454px;
-left: 244px;
-top: 2282px;
 
 background: #FFFFFF;}
 
@@ -194,11 +161,9 @@ padding:8px}
 
 #tablecol3{width: 40%}
 
-#FAQ'shead{position: absolute;
+#FAQ'shead{position: static;
 width: 146px;
 height: 66px;
-left: 647px;
-top: 2956px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -211,34 +176,28 @@ text-align: center;
 color: #4C0027;
 }
 
-.rec6{position: absolute;
+.rec6{position: static;
 width: 1293px;
 height: 754px;
-left: 74px;
-top: 3095px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-.rec6_1{position: absolute;
+.rec6_1{position: static;
 width: 1161px;
 height: 198px;
-left: 66px;
-top: 3135px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#rec6_1head{position: absolute;
+#rec6_1head{position: static;
 width: 203px;
 height: 28px;
-left: 479px;
-top: 26px;
-
+  
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -247,11 +206,9 @@ line-height: 28px;
 
 color: #000000;}
 
-#rec6_1body{position: absolute;
+#rec6_1body{position: static;
 width: 1129px;
 height: 105px;
-left: 22px;
-top: 67px;
 
 font-family: Roboto;
 font-style: normal;
@@ -261,17 +218,13 @@ line-height: 21px;
 
 color: #000000;}
 
-.rec6_2{position: absolute;
+.rec6_2{position: static;
 width: 1161px;
 height: 198px;
-left: 66px;
-top: 278px;
 
-#rec6_2head{position: absolute;
+#rec6_2head{position: static;
 width: 688px;
 height: 28px;
-left: 240px;
-top: 3373px;
 
 font-family: Roboto;
 font-style: normal;
@@ -287,11 +240,9 @@ box-sizing: border-box;
 border-radius: 5px;}
 
 #rec6_2body{
-position: absolute;
+position: static;
 width: 1129px;
 height: 63px;
-left: 22px;
-top: 78px;
 
 font-family: Roboto;
 font-style: normal;
@@ -301,22 +252,18 @@ line-height: 21px;
 
 color: #000000;}
 
-.rec6_3{position: absolute;
+.rec6_3{position: static;
 width: 1161px;
 height: 198px;
-left: 66px;
-top: 3611px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#rec6_3head{position: absolute;
+#rec6_3head{position: static;
 width: 745px;
 height: 28px;
-left: 240px;
-top: 26px;
 
 font-family: Roboto;
 font-style: normal;
@@ -326,11 +273,9 @@ line-height: 28px;
 
 color: #000000;}
 
-#rec6_3body{position: absolute;
+#rec6_3body{position: static;
 width: 1129px;
 height: 42px;
-left: 16px;
-top: 87px;
 
 font-family: Roboto;
 font-style: normal;
@@ -344,11 +289,10 @@ color: #000000;
 .Youtube{top:3849;
 height:1366.93}
 
-#Youtubehead{position: absolute;
+#Youtubehead{position: static;
 width: 240px;
 height: 66px;
-left: 616px;
-top: 45px;
+
 
 font-family: Montserrat;
 font-style: normal;
@@ -359,10 +303,8 @@ text-align: center;
 color: #4C0027;
 }
 
-#video{position: absolute;
+#video{position: static;
 width: 240px;
 height: 66px;
-left: 616px;
-top:45px;
   color: #4C0027;}
-top:168px}
+}
