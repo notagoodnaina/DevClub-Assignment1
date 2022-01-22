@@ -167,9 +167,10 @@ padding:8px}
 
 #tablecol3{width: 40%}
 
-.FAQ's{height: 1044px;
+.FAQ's{
+height: 1044px;
 position:absolute;
-top:2892 px;}
+top:2892px;}
 
 #FAQ'shead{position:absolute;
 top:114px;
