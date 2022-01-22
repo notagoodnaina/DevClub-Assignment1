@@ -48,10 +48,12 @@ line-height: 117px;
 color: #FFFFFF;}
 
 .Tips{background: #FFFFFF;
-height: 1097px;}
+height: 1097px;
+position: absolute;
+top:1024px;}
 
 
-#TipsHeading{position: relative;
+#TipsHeading{position: absolute;
 width: 113px;
 height: 66px;
 top: 29px;
@@ -78,7 +80,10 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#WearMask{width: 317px;
+#WearMask{position:absolute;
+  top: 160px;
+    left:799px;
+  width: 317px;
 height: 66px;
 
 font-family: Montserrat;
@@ -103,6 +108,9 @@ border-radius: 5px;}
 
 #WashHands{width: 346px;
 height: 66px;
+  position:absolute;
+  left: 86px;
+  top:147px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -113,19 +121,24 @@ line-height: 66px;
 
 color: #000000;
 }
-#img1{height: 278px;
+#img1{position:absolute;
+  height: 278px;
 width: 338px;}
 
-#img2{width: 278px;
+#img2{position:absolute;
+  width: 278px;
 height: 338px}
 
 .rec4{width: 1440px;
 height: 721px;
-
+  position: absolute;
+  top: 2121px;
 background: #E8AFCE;}
 
 #Rec4Heading{width: 300px;
 height: 66px;
+  position:absolute;
+  top:54px;
 left: 570px;
 
 font-family: Montserrat;
@@ -134,13 +147,13 @@ font-weight: 600;
 font-size: 54px;
 line-height: 66px;
 /* identical to box height */
-
-
 color: #4C0027;}
 
 .rec5{width: 951px;
 height: 454px;
-
+  position:absolute;
+  top:161px;
+  left:244px;
 background: #FFFFFF;}
 
 th,td{border: 8px solid #750550;
@@ -154,9 +167,14 @@ padding:8px}
 
 #tablecol3{width: 40%}
 
-.FAQ's{height:1044px;}
+.FAQ's{height: 1044px;
+position:absolute;
+top:2892 px;}
 
-#FAQ'shead{width: 146px;
+#FAQ'shead{position:absolute;
+top:114px;
+left:647px;
+width: 146px;
 height: 66px;
 
 font-family: Montserrat;
@@ -170,7 +188,10 @@ text-align: center;
 color: #4C0027;
 }
 
-.rec6{width: 1293px;
+.rec6{position:absolute;
+  top: 253px;
+  left: 74px;
+  width: 1293px;
 height: 754px;
 
 background: #FFFFFF;
@@ -178,7 +199,10 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-.rec6_1{width: 1161px;
+.rec6_1{position:absolute;
+  top: 40px;
+  left: 66px;
+  width: 1161px;
 height: 198px;
 
 background: #FFFFFF;
@@ -187,6 +211,9 @@ box-sizing: border-box;
 border-radius: 5px;}
 
 #rec6_1head{width: 203px;
+  position:absolute;
+  top:26px;
+  left:479px;
 height: 28px;
   
 font-family: Roboto;
@@ -199,6 +226,9 @@ color: #000000;}
 
 #rec6_1body{width: 1129px;
 height: 105px;
+  position:absolute;
+  top:67px;
+  left:22px
 
 font-family: Roboto;
 font-style: normal;
@@ -208,31 +238,34 @@ line-height: 21px;
 
 color: #000000;}
 
-.rec6_2{position: static;
+.rec6_2{position: absolute;
 width: 1161px;
-height: 198px;
-
-#rec6_2head{position: static;
+  height: 198px;
+top:278px;
+left:66px;}
+ 
+#rec6_2head{position: absolute;
 width: 688px;
 height: 28px;
-
+  top:26px;
+  left: 240px;
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
 font-size: 24px;
 line-height: 28px;
-
-color: #000000;}
-  
-background: #FFFFFF;
+color: #000000;
+  background: #FFFFFF;
 border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
 #rec6_2body{
-position: static;
+position: absolute;
 width: 1129px;
 height: 63px;
+  top:78px;
+  left: 22px;
 
 font-family: Roboto;
 font-style: normal;
@@ -242,7 +275,7 @@ line-height: 21px;
 
 color: #000000;}
 
-.rec6_3{position: static;
+.rec6_3{position: absolute;
 width: 1161px;
 height: 198px;
 
@@ -251,7 +284,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#rec6_3head{position: static;
+#rec6_3head{position: absolute;
 width: 745px;
 height: 28px;
 
@@ -263,7 +296,7 @@ line-height: 28px;
 
 color: #000000;}
 
-#rec6_3body{position: static;
+#rec6_3body{position: absolute;
 width: 1129px;
 height: 42px;
 
@@ -276,9 +309,11 @@ line-height: 21px;
 color: #000000;
 }
 
-.Youtube{height:1366.93px;}
+.Youtube{position:absolute;
+  height:1366.93px;}
 
-#Youtubehead{width: 240px;
+#Youtubehead{position:absolute;
+  width: 240px;
 height: 66px;
 
 
@@ -291,6 +326,7 @@ text-align: center;
 color: #4C0027;
 }
 
-#video{width: 240px;
+#video{position:absolute;
+  width: 240px;
 height: 66px;
   color: #4C0027;}
