@@ -67,7 +67,10 @@ text-align: center;
 color: #4C0027;
 }
 
-.rec2{width: 1293px;
+.rec2{position: absolute;
+  top: 168px;
+  left:77px;
+width: 1293px;
 height: 369px;
 
 background: #FFFFFF;
@@ -89,6 +92,9 @@ color: #000000;}
 
 .rec3{width: 1293px;
 height: 369px;
+  position:absolute;
+  top:614px;
+  left:77px;
 
 background: #FFFFFF;
 border: 1px solid #E8AFCE;
