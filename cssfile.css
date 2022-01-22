@@ -51,9 +51,11 @@ color: #FFFFFF;}
 height: 1097px;}
 
 
-#TipsHeading{position: static;
+#TipsHeading{position: relative;
 width: 113px;
 height: 66px;
+top: 29px;
+left: 664px;}
 
 font-family: Montserrat;
 font-style: normal;
