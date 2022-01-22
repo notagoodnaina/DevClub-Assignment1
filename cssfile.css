@@ -1,11 +1,9 @@
-.rec1{position: static;
-width: 1440px;
+.rec1{width: 1440px;
 height: 1024px;
 
 background: #4C0027;}
 
-a{position: static;
-font-family: Roboto;
+a{font-family: Roboto;
 font-style: normal;
 font-weight: 500;
 font-size: 24px;
@@ -23,8 +21,7 @@ height: 28px;}
 #YoutubeLink{width: 95px;
 height: 28px;}
 
-.cap1{position: static;
-width: 1195px;
+.cap1{width: 1195px;
 height: 118px;
 
 font-family: Montserrat;
@@ -33,8 +30,7 @@ font-weight: bold;
 font-size: 48px;
   line-height: 59px;}
 
-.cap2{position: static;
-width: 943px;
+.cap2{width: 943px;
 height: 234px;
 
 font-family: Montserrat;
@@ -45,8 +41,7 @@ line-height: 117px;
 
 color: #FFFFFF;}
 
-.Tips{background: #FFFFFF;
-top: 1024px;}
+.Tips{background: #FFFFFF;}
 
 
 #TipsHeading{position: static;
@@ -64,8 +59,7 @@ text-align: center;
 color: #4C0027;
 }
 
-.rec2{position: static;
-width: 1293px;
+.rec2{width: 1293px;
 height: 369px;
 
 background: #FFFFFF;
@@ -73,8 +67,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#WearMask{position: absolute;
-width: 317px;
+#WearMask{width: 317px;
 height: 66px;
 
 font-family: Montserrat;
@@ -86,8 +79,7 @@ line-height: 66px;
 
 color: #000000;}
 
-.rec3{position: absolute;
-width: 1293px;
+.rec3{width: 1293px;
 height: 369px;
 
 background: #FFFFFF;
@@ -95,8 +87,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#WashHands{position: absolute;
-width: 346px;
+#WashHands{width: 346px;
 height: 66px;
 
 font-family: Montserrat;
@@ -108,29 +99,18 @@ line-height: 66px;
 
 color: #000000;
 }
-#img1{position: absolute;
-left: 24.85%;
-right: 26.5%;
-top: 49.36%;
-bottom: 10.7%;
-height: 278px;
+#img1{height: 278px;
 width: 338px;}
 
-#img2{position: absolute;
-left: 94.26%;
-top: 46.87%;
-bottom: 3.47%;
-width: 278px;
+#img2{width: 278px;
 height: 338px}
 
-.rec4{position: absolute;
-width: 1440px;
+.rec4{width: 1440px;
 height: 721px;
 
 background: #E8AFCE;}
 
-#Rec4Heading{position: absolute;
-width: 300px;
+#Rec4Heading{width: 300px;
 height: 66px;
 left: 570px;
 
@@ -144,8 +124,7 @@ line-height: 66px;
 
 color: #4C0027;}
 
-.rec5{position: static;
-width: 951px;
+.rec5{width: 951px;
 height: 454px;
 
 background: #FFFFFF;}
@@ -161,8 +140,7 @@ padding:8px}
 
 #tablecol3{width: 40%}
 
-#FAQ'shead{position: static;
-width: 146px;
+#FAQ'shead{width: 146px;
 height: 66px;
 
 font-family: Montserrat;
@@ -176,8 +154,7 @@ text-align: center;
 color: #4C0027;
 }
 
-.rec6{position: static;
-width: 1293px;
+.rec6{width: 1293px;
 height: 754px;
 
 background: #FFFFFF;
@@ -185,8 +162,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-.rec6_1{position: static;
-width: 1161px;
+.rec6_1{width: 1161px;
 height: 198px;
 
 background: #FFFFFF;
@@ -194,8 +170,7 @@ border: 1px solid #E8AFCE;
 box-sizing: border-box;
 border-radius: 5px;}
 
-#rec6_1head{position: static;
-width: 203px;
+#rec6_1head{width: 203px;
 height: 28px;
   
 font-family: Roboto;
@@ -206,8 +181,7 @@ line-height: 28px;
 
 color: #000000;}
 
-#rec6_1body{position: static;
-width: 1129px;
+#rec6_1body{width: 1129px;
 height: 105px;
 
 font-family: Roboto;
@@ -286,11 +260,9 @@ line-height: 21px;
 color: #000000;
 }
 
-.Youtube{top:3849;
-height:1366.93}
+.Youtube{height:1366.93}
 
-#Youtubehead{position: static;
-width: 240px;
+#Youtubehead{width: 240px;
 height: 66px;
 
 
@@ -303,8 +275,6 @@ text-align: center;
 color: #4C0027;
 }
 
-#video{position: static;
-width: 240px;
+#video{width: 240px;
 height: 66px;
   color: #4C0027;}
-}
