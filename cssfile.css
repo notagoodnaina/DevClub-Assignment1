@@ -42,7 +42,7 @@ line-height: 117px;
 color: #FFFFFF;}
 
 .Tips{background: #FFFFFF;
-height: 1097px}
+height: 1097px;}
 
 
 #TipsHeading{position: static;
@@ -140,6 +140,8 @@ padding:8px}
 #tablecol1, #tablecol2{width: 25%;}
 
 #tablecol3{width: 40%}
+
+.FAQ's{height:1044px;}
 
 #FAQ'shead{width: 146px;
 height: 66px;
