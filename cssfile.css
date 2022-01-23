@@ -277,6 +277,8 @@ line-height: 21px;
 color: #000000;}
 
 .rec6_3{position: absolute;
+  top: 516px;
+  left: 66px;
 width: 1161px;
 height: 198px;
 
@@ -286,6 +288,8 @@ box-sizing: border-box;
 border-radius: 5px;}
 
 #rec6_3head{position: absolute;
+  top:26px;
+  left:240px;
 width: 745px;
 height: 28px;
 
@@ -298,6 +302,8 @@ line-height: 28px;
 color: #000000;}
 
 #rec6_3body{position: absolute;
+  top:67px;
+  left:16px;
 width: 1129px;
 height: 42px;
 
