@@ -1,6 +1,8 @@
 .rec1{width: 1440px;
 height: 1024px;
-
+  position:absolute;
+  left:0px;
+  top:0px;
 background: #4C0027;}
 
 a{font-family: Roboto;
@@ -50,6 +52,7 @@ color: #FFFFFF;}
 .Tips{background: #FFFFFF;
 height: 1097px;
 position: absolute;
+  left:0px;
 top:1024px;}
 
 
@@ -135,6 +138,7 @@ height: 338px}
 height: 721px;
   position: absolute;
   top: 2121px;
+  left:0px;
 background: #E8AFCE;}
 
 #Rec4Heading{width: 300px;
@@ -172,7 +176,8 @@ padding:8px}
 .FAQs{
 height: 1044px;
 position:absolute;
-top:2892px;}
+top:2892px;
+left:0px}
 
 #FAQshead{position:absolute;
 top:114px;
@@ -342,6 +347,7 @@ color: #4C0027;}
 
 .Footer{position:absolute;
 top:4049px;
+left:0px;
 height: 219px;
 font-family: Roboto;
 font-style: normal;
