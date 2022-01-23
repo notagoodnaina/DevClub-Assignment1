@@ -325,7 +325,11 @@ color: #000000;
 
 .Youtube{position:absolute;
   top: 3849px;
-  height:700px;}
+  left:0px;
+  height:700px;
+width:1440px;
+border: 1px solid #E8AFCE;
+}
 
 #Youtubehead{position:absolute;
   top:45px;
