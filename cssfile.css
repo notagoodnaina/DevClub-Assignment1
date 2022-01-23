@@ -324,8 +324,8 @@ color: #000000;
 }
 
 .Youtube{position:absolute;
-  top: 2825px;
-  left:0px;
+  top: 754px;
+  left:-74px;
   height:700px;
 width:1440px;
 border: 1px solid #E8AFCE;
@@ -351,7 +351,7 @@ color: #4C0027;}
 
 .Footer{position:absolute;
 top:4049px;
-left:0px;
+left:-74px;
 height: 219px;
 font-family: Roboto;
 font-style: normal;
