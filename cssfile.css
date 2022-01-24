@@ -346,7 +346,9 @@ color: #4C0027;}
 
 #video{position:absolute;
   top:160px;
-  left:341px;
+  display: block;
+margin: 0 auto;
+
   color: #4C0027;}
 
 .Footer{position:absolute;
