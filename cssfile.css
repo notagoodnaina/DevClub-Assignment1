@@ -171,6 +171,8 @@ height: 454px;
   left:244px;
 background: #FFFFFF;}
 
+table{border-collapse:collapse;}
+
 th,td{border: 8px solid #750550;
 font-family: Roboto;
 font-style: normal;
