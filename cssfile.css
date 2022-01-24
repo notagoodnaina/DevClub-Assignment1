@@ -346,6 +346,7 @@ color: #4C0027;}
 
 #video{position:absolute;
   top:160px;
+  width:1440px;
   display: block;
 margin: 0 auto;
 
